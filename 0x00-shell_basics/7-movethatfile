@@ -1,1 +1,3 @@
+#!/bin/bash
+mv bettyn /my_first_directory
 
